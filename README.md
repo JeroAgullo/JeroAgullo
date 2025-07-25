@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Jero!  
+# 👋 Hi, I'm Jero!  
 
 **Financial Analyst | Data-Driven Business Insights | Tech-Savvy Finance**  
 
@@ -8,7 +8,7 @@ I specialize in combining **finance and technology** to create actionable insigh
 
 ---
 
-# What I do  
+## What I do  
 
 ✅ Corporate finance analysis (balance sheets, cash flow, KPIs)  
 ✅ Treasury forecasting & liquidity management  
@@ -16,7 +16,7 @@ I specialize in combining **finance and technology** to create actionable insigh
 ✅ Python scripts for financial data automation & visualization  
 ✅ Investing strategies & company valuation models  
 
-# Tech Stack  
+## Tech Stack  
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -31,7 +31,7 @@ I specialize in combining **finance and technology** to create actionable insigh
 ![Sage X3](https://img.shields.io/badge/Sage%20X3-00DC82?style=for-the-badge&logo=sap&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 
-# Let’s connect!  
+## Let’s connect!  
 
 💼 https://www.linkedin.com/in/meetme-jeronimoagullo  
 ✉️ mailto:jeronimo.civil@gmail.com  
