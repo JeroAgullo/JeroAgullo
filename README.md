@@ -1,12 +1,14 @@
-## 👋 Hi, I'm Jero!
+## 👋 Hi, I'm Jero!  
 
-📊 **Financial Analyst | Data-Driven Business Insights | Tech-Savvy Finance**  
+**Financial Analyst | Data-Driven Business Insights | Tech-Savvy Finance**  
 
 I specialize in combining **finance and technology** to create actionable insights for businesses. My work focuses on **corporate finance, business analysis, and investment strategies**, leveraging **Excel, SQL, and Python** to support data-driven decision making.
 
+![](https://komarev.com/ghpvc/?username=JeroAgullo&color=green)
+
 ---
 
-## 🚀 What I Do
+What I do  
 
 ✅ Corporate finance analysis (balance sheets, cash flow, KPIs)  
 ✅ Treasury forecasting & liquidity management  
@@ -14,9 +16,7 @@ I specialize in combining **finance and technology** to create actionable insigh
 ✅ Python scripts for financial data automation & visualization  
 ✅ Investing strategies & company valuation models  
 
----
-
-## 🛠 Tech Stack  
+Tech Stack  
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -30,13 +30,7 @@ I specialize in combining **finance and technology** to create actionable insigh
 ![Sage X3](https://img.shields.io/badge/Sage%20X3-00DC82?style=for-the-badge&logo=sap&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 
----
+Let’s connect!  
 
-## 📫 Let’s Connect
-
-- 💼 https://www.linkedin.com/in/meetme-jeronimoagullo
-- ✉️ mailto:jeronimo.civil@gmail.com
-
----
-
-> *“Bridging the gap between finance and technology for smarter business decisions.”*
+💼 https://www.linkedin.com/in/meetme-jeronimoagullo
+✉️ mailto:jeronimo.civil@gmail.com
