@@ -8,7 +8,7 @@ I specialize in combining **finance and technology** to create actionable insigh
 
 ---
 
-What I do  
+# What I do  
 
 ✅ Corporate finance analysis (balance sheets, cash flow, KPIs)  
 ✅ Treasury forecasting & liquidity management  
@@ -16,10 +16,11 @@ What I do
 ✅ Python scripts for financial data automation & visualization  
 ✅ Investing strategies & company valuation models  
 
-Tech Stack  
+# Tech Stack  
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -30,7 +31,7 @@ Tech Stack
 ![Sage X3](https://img.shields.io/badge/Sage%20X3-00DC82?style=for-the-badge&logo=sap&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 
-Let’s connect!  
+# Let’s connect!  
 
 💼 https://www.linkedin.com/in/meetme-jeronimoagullo  
 ✉️ mailto:jeronimo.civil@gmail.com  
