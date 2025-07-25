@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jero!  
 
-![](https://komarev.com/ghpvc/?username=JeroAgullo&color=green) **Financial Analyst | Data-Driven Business Insights | Tech-Savvy Finance** 
+**Financial Analyst | Data-Driven Business Insights | Tech-Savvy Finance** 
 
 I specialize in combining **finance and technology** to create actionable insights for businesses. My work focuses on **corporate finance, business analysis, and investment strategies**, leveraging **Excel, SQL, and Python** to support data-driven decision making.
 
@@ -32,3 +32,5 @@ I specialize in combining **finance and technology** to create actionable insigh
 ✅ SQL queries for financial databases  
 ✅ Python scripts for financial data automation & visualization  
 ✅ Investing strategies & company valuation models  
+
+![](https://komarev.com/ghpvc/?username=JeroAgullo&color=green)
