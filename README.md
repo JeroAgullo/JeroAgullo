@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hi, I'm Jero!
 
-<!--
-**JeroAgullo/JeroAgullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Financial Analyst | Data-Driven Business Insights | Tech-Savvy Finance**  
 
-Here are some ideas to get you started:
+I specialize in combining **finance and technology** to create actionable insights for businesses. My work focuses on **corporate finance, business analysis, and investment strategies**, leveraging **Excel, SQL, and Python** to support data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+✅ Corporate finance analysis (balance sheets, cash flow, KPIs)
+✅ Treasury forecasting & liquidity management
+✅ SQL queries for financial databases
+✅ Python scripts for financial data automation & visualization
+✅ Investing strategies & company valuation models
+
+---
+
+## 🛠 Tech Stack  
+
+- **Finance Tools:** Excel, Power BI, Financial Modeling  
+- **Databases:** SQL (PostgreSQL / MySQL)  
+- **Python Libraries:** pandas, numpy, matplotlib, seaborn  
+- **Other:** GitHub for version control and collaboration  
+
+---
+
+## 📫 Let’s Connect  
+
+- 💼 [LinkedIn](your-linkedin-url)  
+- ✉️ [Your Email](mailto:your-email@example.com)  
+
+---
+
+> *“Bridging the gap between finance and technology for smarter business decisions.”*  
