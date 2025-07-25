@@ -32,5 +32,5 @@ Tech Stack
 
 Let’s connect!  
 
-💼 https://www.linkedin.com/in/meetme-jeronimoagullo
-✉️ mailto:jeronimo.civil@gmail.com
+💼 https://www.linkedin.com/in/meetme-jeronimoagullo  
+✉️ mailto:jeronimo.civil@gmail.com  
