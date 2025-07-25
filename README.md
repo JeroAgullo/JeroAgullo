@@ -16,7 +16,7 @@ I specialize in combining **finance and technology** to create actionable insigh
 ✅ Python scripts for financial data automation & visualization  
 ✅ Investing strategies & company valuation models  
 
-## Tech Stack  
+## What I work with  
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -27,6 +27,7 @@ I specialize in combining **finance and technology** to create actionable insigh
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=plotly&logoColor=white)
+![yfinance](https://img.shields.io/badge/yfinance-0057B7?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Sage X3](https://img.shields.io/badge/Sage%20X3-00DC82?style=for-the-badge&logo=sap&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
