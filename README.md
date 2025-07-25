@@ -25,11 +25,11 @@ I specialize in combining **finance and technology** to create actionable insigh
 
 ---
 
-## 📫 Let’s Connect  
+## 📫 Let’s Connect
 
-- 💼 [LinkedIn](your-linkedin-url)  
-- ✉️ [Your Email](mailto:your-email@example.com)  
+- 💼 https://www.linkedin.com/in/meetme-jeronimoagullo
+- ✉️ mailto:jeronimo.civil@gmail.com
 
 ---
 
-> *“Bridging the gap between finance and technology for smarter business decisions.”*  
+> *“Bridging the gap between finance and technology for smarter business decisions.”*
