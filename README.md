@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jero!  
+# Hello, World!  
 
 **Financial Analyst | Data-Driven Business Insights | Tech-Savvy Finance** 
 
